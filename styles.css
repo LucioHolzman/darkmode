@@ -47,7 +47,6 @@ body .container .button-moon {
   transform: rotateZ(-50deg);
 }
 body .container .button-moon div {
-  background-color: white;
   width: 130px;
   height: 200px;
   border: none;
