@@ -24,6 +24,7 @@ body .container {
   flex-direction: column;
   align-items: center;
   transition: all 1s ease;
+  border-radius: 50%;
 }
 body .container .button-sun {
   position: absolute;
